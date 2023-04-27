@@ -20,6 +20,10 @@
 
 **git diff** – увидеть разницу между текущим файлом и закоммиченным файлом
 
-![картинка](image.jpg.jpg)
+[картинка](image.jpg.jpg)
 
 [ссылка на вики Metro Exodus](https://ru.wikipedia.org/wiki/Metro_Exodus)
+
+> **git branch** – посмотреть список веток в репозитории
+
+> **git branch <название ветки>** – создать новую ветку
