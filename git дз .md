@@ -23,3 +23,7 @@
 ![картинка](image.jpg.jpg)
 
 [ссылка на вики Metro Exodus](https://ru.wikipedia.org/wiki/Metro_Exodus)
+
+**git checkout <название ветки>** – переход к другой ветке.
+
+**git branch -d <название ветки>** – удалить ветку.
