@@ -22,12 +22,17 @@
 
 [картинка](image.jpg.jpg)
 
-[ссылка на вики Metro Exodus](https://ru.wikipedia.org/wiki/Metro_Exodus)
+> [ссылка на вики Metro Exodus](https://ru.wikipedia.org/wiki/Metro_Exodus)
 
-> **git branch** – посмотреть список веток в репозитории
+**git branch** – посмотреть список веток в репозитории.
 
-> **git branch <название ветки>** – создать новую ветку
+**git branch <название ветки>** – создать новую ветку.
 
 **git checkout <название ветки>** – переход к другой ветке.
 
 **git branch -d <название ветки>** – удалить ветку.
+***
+**git log –graph** - визуализирует коммиты.
+
+**git checkout -b <название ветки>** - Создание и переход в новую ветку.
+***
