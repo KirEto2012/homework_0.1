@@ -22,4 +22,6 @@
 
 ![картинка](image.jpg.jpg)
 
-[ссылка на вики Metro Exodus](https://ru.wikipedia.org/wiki/Metro_Exodus)
+[Ссылка на вики Metro Exodus](https://ru.wikipedia.org/wiki/Metro_Exodus)
+
+[Ссылка на Яндекс Музыка](https://music.yandex.ru/home?=)
