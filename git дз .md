@@ -23,3 +23,7 @@
 ![картинка](image.jpg.jpg)
 
 [ссылка на вики Metro Exodus](https://ru.wikipedia.org/wiki/Metro_Exodus)
+
+**git log –graph** - визуализирует коммиты
+
+**git checkout -b <название ветки>** - Создание и переход в новую ветку
